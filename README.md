@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binarywall" alt="binarywall" /></a> </p>
 
-- 🔭 I’m currently working at **Elite Infosystems**
+- 🔭 I’m currently working at **Dev Stack Solution Pvt. Ltd**
 
 - 🌱 I’m currently learning **Node JS**
 
